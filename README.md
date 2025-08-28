@@ -1,4 +1,4 @@
-# hello-world
-Repositório para praticar fundamentos de git e github
+# Aprendendo git e github
+Esse é meu primeiro repositório remoto no github
 
-Aprimorar os conhecimentos obtidos até agora em relação a git e github
+aguardando para atualizar com outros projectos existentes na minha máquina
