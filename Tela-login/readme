@@ -1,5 +1,8 @@
-## Consolidacao com arquivo de teste
+##Consolidacao com arquivo de teste
 
 Adicionando novo arquivo ao repositorio para testar e entender como funciona o git fetch em git 
+
+O git fetch nos permite baixar as alterações do repositório remoto ao nosso repositório local sem mesclar as alterações
+
 
 !Baptista Valeta
